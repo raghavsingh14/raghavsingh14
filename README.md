@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Raghav Singh
 
 
-[![codechef badge](https://img.shields.io/badge/rudrakshi99-30302f?style=flat&logo=codechef)](https://www.codechef.com/users/raghu_11)
-[![hackerrank badge](https://img.shields.io/badge/sonirudrakshi99-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/raghu_14)
+[![codechef badge](https://img.shields.io/badge/raghu_11-30302f?style=flat&logo=codechef)](https://www.codechef.com/users/raghu_11)
+[![hackerrank badge](https://img.shields.io/badge/raghu_14-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/raghu_14)
 
 Here are some ideas to get you started:
 
