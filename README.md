@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Raghav Singh
 
-
 [![codechef badge](https://img.shields.io/badge/raghu_11-30302f?style=flat&logo=codechef)](https://www.codechef.com/users/raghu_11)
 [![hackerrank badge](https://img.shields.io/badge/raghu_14-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/raghu_14)
 [![](https://img.shields.io/badge/raghu_11?logo=leetcode)](https://leetcode.com/raghu_11/)
