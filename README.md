@@ -3,7 +3,7 @@
 
 [![codechef badge](https://img.shields.io/badge/raghu_11-30302f?style=flat&logo=codechef)](https://www.codechef.com/users/raghu_11)
 [![hackerrank badge](https://img.shields.io/badge/raghu_14-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/raghu_14)
-[![Crates.io](https://img.shields.io/crates/v/leetcode-cli.svg)](https://crates.io/crates/leetcode-cli)
+[![leetcode badge](https://img.shields.io/badge/endpoint.svg?url=https://raw.githubusercontent.com/raghu_11/leetcode-js/master/.shieldsio.json)](https://leetcode.com/raghu_11/)
 
 
 - 🔭 I’m currently working on my Problem Solving Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
