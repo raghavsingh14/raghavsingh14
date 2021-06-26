@@ -5,10 +5,10 @@
 [![hackerrank badge](https://img.shields.io/badge/raghu_14-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/raghu_14)
 [![](https://img.shields.io/badge/LeetCode-raghu_11-gree?logo=leetcode)](https://leetcode.com/raghu_11/)
 
-- :desktop_computer: I’m strengthening my Problem Solving Skills and Data Structres and Algorithms Concepts <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 👨‍🎓 I’m currently pursuing my B.Tech in Computer Science and Engineering from UIET, Kanpur, India
+- :desktop_computer: I’m strengthening my Problem Solving Skills and Data Structres and Algorithms Concepts. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 👨‍🎓 I’m currently pursuing my B.Tech in Computer Science and Engineering from UIET, Kanpur, India.
 - :e-mail: How to reach me: raghav14121@gmail.com 
-- :round_pushpin: Ghaziabad, India :india:
+- :round_pushpin:  Ghaziabad, India :india:
 
 ### Languages and Tools
 
