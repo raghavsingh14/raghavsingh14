@@ -26,5 +26,5 @@
 ### Socials
 
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/raghav-singh-5961351b7/)
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/raghavsingh14/raghavsingh14/blob/main/twitter.ico" />]( https://www.twitter.com/)
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/raghavsingh14/raghavsingh14/blob/main/twitter.ico" />]( raghav14121@gmail.com)
+[<img align="left" alt="LinkedIn" width="80" src="https://github.com/raghavsingh14/raghavsingh14/blob/main/twitter_socialnetwork_20007.ico" />]( https://www.twitter.com/)
+[<img align="left" alt="LinkedIn" width="80" src="https://github.com/raghavsingh14/raghavsingh14/blob/main/googlemail_21781.ico" />]( raghav14121@gmail.com)
