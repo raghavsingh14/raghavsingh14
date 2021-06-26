@@ -5,8 +5,8 @@
 [![hackerrank badge](https://img.shields.io/badge/raghu_14-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/raghu_14)
 [![](https://img.shields.io/badge/LeetCode-raghu_11-gree?logo=leetcode)](https://leetcode.com/raghu_11/)
 
-- 👨‍🎓 I’m currently pursuing my B.Tech in Computer Science and Engineering from UIET, Kanpur, India
 - 🔭 I’m strengthening my Problem Solving Skills and Data Structres and Algorithms Concepts <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 👨‍🎓 I’m currently pursuing my B.Tech in Computer Science and Engineering from UIET, Kanpur, India
 - 📫 How to reach me: raghav14121@gmail.com
 
 ### Languages and Tools
@@ -26,5 +26,3 @@
 ### Socials
 
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/raghav-singh-5961351b7/)
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/raghavsingh14/raghavsingh14/blob/main/twitter_socialnetwork_20007.ico" />]( https://www.twitter.com/)
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/raghavsingh14/raghavsingh14/blob/main/googlemail_21781.ico" />]( raghav14121@gmail.com)
