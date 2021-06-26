@@ -7,8 +7,8 @@
 
 - 🔭 I’m strengthening my Problem Solving Skills and Data Structres and Algorithms Concepts <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👨‍🎓 I’m currently pursuing my B.Tech in Computer Science and Engineering from UIET, Kanpur, India
-- 📫 How to reach me: raghav14121@gmail.com
-- ⚡ More about me : [embed]http://github.com/raghavsingh14/raghavsingh14/Raghav_Resume.pdf[/embed]
+- 📫 How to reach me: raghav14121@gmail.com 
+- ⚡ More about me : [embed] https://docs.google.com/viewer?url=https://raw.githubusercontent.com/raghavsingh14/raghavsingh14/Raghav_Resume.pdf [/embed]
 
 ### Languages and Tools
 
