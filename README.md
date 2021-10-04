@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/LeetCode-raghu_11-gree?logo=leetcode)](https://leetcode.com/raghu_11/)
 
 - :desktop_computer: I’m strengthening my Problem Solving Skills and Data Structres and Algorithms Concepts. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 👨‍🎓 I’m currently pursuing my B.Tech in Computer Science and Engineering from UIET, Kanpur, India.
+- 👨‍🎓 I have done my B.Tech in Computer Science and Engineering from UIET, Kanpur, India.
 - :e-mail: How to reach me: raghav14121@gmail.com 
 -  :round_pushpin: Ghaziabad, India :india:
 
@@ -28,4 +28,4 @@
 
 ### Socials
 
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( https://www.linkedin.com/in/raghav-singh-5961351b7/)
+[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://www.linkedin.com/in/raghavsingh14/)
